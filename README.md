@@ -2,7 +2,7 @@
 
 # My Specs
 
-## PC
+## Gaming PC
 
 - <span style="color: white; font-weight: bold">CPU:</span> Intel Core i9-11900KF
 - <span style="color: white; font-weight: bold">RAM:</span> 32GB
@@ -10,12 +10,12 @@
 - <span style="color: white; font-weight: bold">OS:</span> Windows 11
 - <span style="color: white; font-weight: bold">Storage:</span> 1TB SSD
 
-## M1 MacBook Pro 13"
+## M2 Pro MacBook Pro 16"
 
-- <span style="color: white; font-weight: bold">Display:</span> Retina display
-- <span style="color: white; font-weight: bold">Chip:</span> Apple M1 chip
-- <span style="color: white; font-weight: bold">Memory:</span> 8GB
-- <span style="color: white; font-weight: bold">Storage:</span> 256GB SSD
+- <span style="color: white; font-weight: bold">Display:</span> 16-inch Liquid Retina XDR display
+- <span style="color: white; font-weight: bold">Chip:</span> Apple M2 Pro Chip
+- <span style="color: white; font-weight: bold">Memory:</span> 16GB
+- <span style="color: white; font-weight: bold">Storage:</span> 512GB SSD
 
 ## Gear
 
@@ -25,4 +25,5 @@
 - <span style="color: white; font-weight: bold">Headset:</span> HyperX Cloud II 7.1
 - <span style="color: white; font-weight: bold">Earbuds:</span> AirPods Pro
 - <span style="color: white; font-weight: bold">Watch:</span> Apple Watch Series 3
-- <span style="color: white; font-weight: bold">Phone:</span> iPhone XR
+- <span style="color: white; font-weight: bold">Primary phone:</span> iPhone 15
+- <span style="color: white; font-weight: bold">Secondary phone:</span> iPhone XR
