@@ -1,6 +1,6 @@
 ![specs](https://user-images.githubusercontent.com/101022772/197791663-15b80973-5429-48f9-8eb9-161c85d4a37f.png)
 
-# My Specs
+# Specs
 
 ## Gaming PC
 
