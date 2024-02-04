@@ -1,4 +1,4 @@
-![specs](https://user-images.githubusercontent.com/101022772/197791663-15b80973-5429-48f9-8eb9-161c85d4a37f.png)
+![specs-banner](https://github.com/alsonick/specs/assets/101022772/763c92bf-cbb6-4b36-9833-e3e3a1b7092a)
 
 # Specs
 
