@@ -18,11 +18,12 @@
 - <span style="color: white; font-weight: bold">Storage:</span> 512GB SSD
 
 ## Gear
-
-- <span style="color: white; font-weight: bold">Monitor:</span> Samsung UR55 4K IPS HDR10
+- <span style="color: white; font-weight: bold">Console:</span> Nintendo Switch (Neon Blue / Neon Red Joy-Con Controllers)
+- <span style="color: white; font-weight: bold">Primary monitor:</span> Samsung UR55 4K IPS HDR10
+- <span style="color: white; font-weight: bold">Secondary monitor:</span> AOC 27B2H 27"
 - <span style="color: white; font-weight: bold">Keyboard:</span> Keychron K4 Wireless Mechanical Keyboard
-- <span style="color: white; font-weight: bold">Mouse:</span> TECKNET RGB Gaming Mouse
-- <span style="color: white; font-weight: bold">Headset:</span> HyperX Cloud II 7.1
+- <span style="color: white; font-weight: bold">Mouse:</span> RAZER DeathAdder
+- <span style="color: white; font-weight: bold">Headset:</span> CORSAIR HS65 SURROUND
 - <span style="color: white; font-weight: bold">Earbuds:</span> AirPods Pro
 - <span style="color: white; font-weight: bold">Watch:</span> Apple Watch Series 3
 - <span style="color: white; font-weight: bold">Primary phone:</span> iPhone 15
